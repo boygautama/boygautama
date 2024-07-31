@@ -1,8 +1,13 @@
-<h3 align="center">A passionate self-taught developer from Khatulistiwa Land</h3>
+<h1 align="center">Hi 👋, I'm Boy Gautama</h1>
+<h3 align="center">A passionate frontend developer from Khatulistiwa Land</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boygautama&label=Profile%20views&color=0e75b6&style=flat" alt="boygautama" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boygautama" alt="boygautama" /></a> </p>
+
+- 🔭 I’m currently working on **Office**
+
+- 🌱 I’m currently learning **Postgresql, Golang**
 
 - ⚡ Fun fact **it's fun**
 
@@ -11,7 +16,7 @@
 <a href="https://codepen.io/boygautama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="boygautama" height="30" width="40" /></a>
 <a href="https://twitter.com/boygautama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="boygautama" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/boy-gautama-46290760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boy-gautama-46290760" height="30" width="40" /></a>
-<a href="https://medium.com/@boy.gautama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="boy.gautama" height="30" width="40" /></a>
+<a href="https://medium.com/@boy.gautama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@boy.gautama" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
